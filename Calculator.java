@@ -22,7 +22,7 @@ public class Calculator implements ActionListener {
        jf.setLocation(900,100 );
        jf.getContentPane().setBackground(Color.white);
 
-////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////// ////////////////////////////////////////
 
        displayLabel=new JLabel("");
        displayLabel.setBounds(3,50,325,65);
